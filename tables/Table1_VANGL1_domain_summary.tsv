@@ -1,0 +1,7 @@
+Region	Residue_start	Residue_end	Domain_length
+TM1	118	138	21
+TM2	152	172	21
+TM3	183	203	21
+TM4	223	243	21
+C_terminal_tail	424	524	101
+PDZ_binding_motif	521	524	4

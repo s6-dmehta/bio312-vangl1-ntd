@@ -1,0 +1,7 @@
+Region	Residue_start	Residue_end
+TM1	118	138
+TM2	152	172
+TM3	183	203
+TM4	223	243
+C_terminal_tail	424	524
+PDZ_binding_motif	521	524
